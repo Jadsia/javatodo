@@ -1,24 +1,37 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img width="425" alt="ToDo screenshot" src="https://user-images.githubusercontent.com/48420271/67201555-6460a500-f3bb-11e9-95f8-dca13648c6d2.PNG">
 
-Things you may want to cover:
+### Project Purpose
 
-* Ruby version
+Incorporate dynamic JS and AJAX calls in to an HTML/CSS/Rails framework to create a to do list
+ 
+### Project Requirements
 
-* System dependencies
+Rails back end, JS/AJAX calls, hosted on heroku
+ 
+### Features
 
-* Configuration
+1. JS/AJAX calls
+2. Updatable
+ 
+### Software Requirements
+ 
+Rails v. 5.0.0 
+Ruby v. 2.6.3
+PostgreSQL v.
+JS v.
+HTML5/CSS3
+ 
+### Clone this Repository
+https://github.com/Jadsia/javatodo
+ 
+### Support
+Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here
 
-* Database creation
 
-* Database initialization
+ 
+### Copyright
+copyright:: (c) Copyright 2019 Megan Young. All Rights Reserved.
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
