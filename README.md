@@ -29,7 +29,7 @@ https://github.com/Jadsia/javatodo
 ### Support
 Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here
 
-
+https://github.com/Jadsia/javatodo/issues
  
 ### Copyright
 copyright:: (c) Copyright 2019 Megan Young. All Rights Reserved.
