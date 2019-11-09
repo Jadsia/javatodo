@@ -17,11 +17,11 @@ Rails back end, JS/AJAX calls, hosted on heroku
  
 ### Software Requirements
  
-Rails v. 5.0.0 
-Ruby v. 2.6.3
-PostgreSQL v.
-JS v.
-HTML5/CSS3
+* Rails v. 5.0.0 
+* Ruby v. 2.6.3
+* PostgreSQL
+* JS
+* HTML/CSS
  
 ### Clone this Repository
 https://github.com/Jadsia/javatodo
